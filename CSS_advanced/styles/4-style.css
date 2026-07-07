@@ -2,7 +2,7 @@
 
 :root {
     --font-family-base:"Helvetica Neue", Helvetica, Arial, sans-serif;
-    --fron-family-title:"Helvetica Neue", Helvetica. Arial, sans-serif;
+    --font-family-title:"Helvetica Neue", Helvetica. Arial, sans-serif;
 }
 
 body{
@@ -10,5 +10,5 @@ body{
 }
 
 h1,h2,h3,h4,h5,h6 {
-    font-family: var(--fron-family-title);
+    font-family: var(--font-family-title);
 }
