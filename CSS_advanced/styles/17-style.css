@@ -427,7 +427,7 @@ a:active {
 
 .section-header {
     padding: var(--section-padding);
-    text-align: var(--section-header-align);
+    text-align: var(--section-header-padding);
 }
 
 .section-body {
