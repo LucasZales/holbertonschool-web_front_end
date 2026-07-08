@@ -233,7 +233,7 @@ ul.row {
     padding: var(--footer-padding);
 }
 
-.card-title .card-services {
+.card-services .card-title {
     margin: 0;
 }
 
