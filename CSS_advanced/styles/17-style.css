@@ -427,7 +427,6 @@ a:active {
 
 .section-header {
     padding: var(--section-padding);
-    text-align: var(--section-header-padding);
 }
 
 .section-body {
@@ -435,7 +434,7 @@ a:active {
 }
 
 .section-footer {
-    padding: var(--section-padding);
+    padding: var(--section-footer-padding);
     text-align: var(--section-footer-align);
 }
 
